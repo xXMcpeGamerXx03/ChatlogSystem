@@ -1,4 +1,4 @@
-#Chatlog System
+# Chatlog System
 
 **Permissions**: 
 - *_chatlog.command_*
@@ -26,4 +26,4 @@
 **Author**:
 - *_r3pt1s_*
 
-#**_Enjoy!❤️_** 
+# **_Enjoy!❤️_** 
