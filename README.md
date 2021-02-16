@@ -17,8 +17,8 @@
 - *_Discord-Webhook-Url | Wenn du Discord-Notify auf "true" hast musst du eine Webhoom Url angeben!_*
 
 **Wichtig**:
-- *_Nach einem Server restart werden die Messages aller vorherigen erstellten Chatlogs gelöscht.
-- *_Das wird in der V2 behoben!
+- *_Nach einem Server restart werden die Messages aller vorherigen erstellten Chatlogs gelöscht._*
+- *_Das wird in der V2 behoben!_*
 
 **Tutorial**:
 - *_soon..._*
